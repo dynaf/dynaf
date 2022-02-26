@@ -1,6 +1,6 @@
 <!--Intro Text-->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Dynaf+%F0%9F%91%8B;I+hope+you+have+a+greate+day.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Dynaf+%F0%9F%91%8B;I+hope+you+have+a+grate+day.)](https://git.io/typing-svg)
 
 <br>
 
